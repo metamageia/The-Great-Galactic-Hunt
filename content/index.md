@@ -1,3 +1,6 @@
+---
+title: The Great Galactic Hunt
+---
 # Synopsis:
 
 For countless millennia, human civilizations developed in isolation, scattered across the vastness of the galaxy. Then, roughly a thousand years ago, everything changed. A singular, inexplicable cosmic broadcast permeated every corner of the known galaxy, fundamentally altering the trajectory of every human species it touched. This Broadcast wasn't a message; it was a download – a complete compendium of advanced technological knowledge. Within moments, humanity was gifted with the ability to traverse interstellar distances with FTL drives, to augment their bodies with bionics, to create loyal and intelligent robotics, and to achieve unprecedented breakthroughs in medical science.
