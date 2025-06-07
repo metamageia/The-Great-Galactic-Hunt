@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>Quartz 4</title>
+      <title>The Great Galactic Hunt</title>
       <link>https://quartz.jzhao.xyz</link>
-      <description>Last 10 notes on Quartz 4</description>
+      <description>Last 10 notes on The Great Galactic Hunt</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>template.ttrpg.session</title>
-    <link>https://quartz.jzhao.xyz/system/templates/template.ttrpg.session</link>
-    <guid>https://quartz.jzhao.xyz/system/templates/template.ttrpg.session</guid>
-    <description>(Note: Delete this line template ) &lt;%tp.file.title%&gt; Session Summary Attendance Log .</description>
-    <pubDate>Fri, 06 Jun 2025 06:17:07 GMT</pubDate>
+    <title>The Galaxy</title>
+    <link>https://quartz.jzhao.xyz/The-Galaxy</link>
+    <guid>https://quartz.jzhao.xyz/The-Galaxy</guid>
+    <description>The Galaxy: The Modern Galactic Stage is in its infancy, with the Broadcast only occurring 150 years ago.</description>
+    <pubDate>Sat, 07 Jun 2025 21:40:28 GMT</pubDate>
   </item><item>
-    <title>template.ttrpg.general</title>
-    <link>https://quartz.jzhao.xyz/system/templates/template.ttrpg.general</link>
-    <guid>https://quartz.jzhao.xyz/system/templates/template.ttrpg.general</guid>
-    <description>&lt;%tp.file.title%&gt;.</description>
-    <pubDate>Fri, 06 Jun 2025 06:17:07 GMT</pubDate>
+    <title>The Chrome Ascendancy</title>
+    <link>https://quartz.jzhao.xyz/The-Chrome-Ascendancy</link>
+    <guid>https://quartz.jzhao.xyz/The-Chrome-Ascendancy</guid>
+    <description>The Chrome Ascendancy Technology Advantage: Pretech Cyberware Manufacturing Home Planet: New Aeden, Urbanized Surface Sub-Species: Aedenites Culture: This society embraces mechanical augmentation as a path to perfection, with many citizens having extensive cybernetic implants for practical, aestheti...</description>
+    <pubDate>Sat, 07 Jun 2025 21:40:28 GMT</pubDate>
   </item><item>
-    <title>Adding Gameplay Verbs and Goals</title>
-    <link>https://quartz.jzhao.xyz/Adding-Gameplay-Verbs-and-Goals</link>
-    <guid>https://quartz.jzhao.xyz/Adding-Gameplay-Verbs-and-Goals</guid>
-    <description>Because most games are made of other games, they typically have multiple goals running at the same time.</description>
-    <pubDate>Fri, 06 Jun 2025 06:15:59 GMT</pubDate>
+    <title>The Cogent Union</title>
+    <link>https://quartz.jzhao.xyz/The-Cogent-Union</link>
+    <guid>https://quartz.jzhao.xyz/The-Cogent-Union</guid>
+    <description>The Cogent Union Technology Advantage: True Artificial Intelligence Integration Home Planet: Nexus Prime, Urbanized Surface Sub-Species: Nexans Culture: Society on Nexus Prime is deeply intertwined with sentient True AIs, who manage infrastructure and guide societal development.</description>
+    <pubDate>Sat, 07 Jun 2025 21:40:28 GMT</pubDate>
   </item><item>
-    <title>Adding a Mechanical Statistic</title>
-    <link>https://quartz.jzhao.xyz/Adding-a-Mechanical-Statistic</link>
-    <guid>https://quartz.jzhao.xyz/Adding-a-Mechanical-Statistic</guid>
-    <description>Extending an existing statistic fails to present the player with a to challenge or tool and is generally regarded as a boring and tedious addition to a given system.</description>
-    <pubDate>Fri, 06 Jun 2025 06:15:59 GMT</pubDate>
+    <title>The Credo-Syndicates</title>
+    <link>https://quartz.jzhao.xyz/The-Credo-Syndicates</link>
+    <guid>https://quartz.jzhao.xyz/The-Credo-Syndicates</guid>
+    <description>The Credo-Syndicates Technology Advantage: Advanced Trade Logistics Home Planet: Karelia, Cold Sub-Species: Karens Culture: These hyper-capitalists view all life and resources as commodities to be traded and exploited for profit, often through intricate service contracts and daring far-trader ventur...</description>
+    <pubDate>Sat, 07 Jun 2025 21:40:28 GMT</pubDate>
   </item><item>
-    <title>Agenda Card</title>
-    <link>https://quartz.jzhao.xyz/Agenda-Card</link>
-    <guid>https://quartz.jzhao.xyz/Agenda-Card</guid>
-    <description>This is the core of my system.</description>
-    <pubDate>Fri, 06 Jun 2025 06:15:59 GMT</pubDate>
+    <title>The Gen-Cults of Xylos</title>
+    <link>https://quartz.jzhao.xyz/The-Gen-Cults-of-Xylos</link>
+    <guid>https://quartz.jzhao.xyz/The-Gen-Cults-of-Xylos</guid>
+    <description>The Gen-Cults of Xylos Technology Advantage: Human Genetic Manipulation and Eugenics Home Planet: Xylos (Pronounced zy-loss), Variable Warm Sub-Species: Xylos (Pronounced zy-lowes) Culture: Driven by eugenic ideals, the Gen-Cults strive to perfect humanity through genetic enhancement, often resultin...</description>
+    <pubDate>Sat, 07 Jun 2025 21:40:27 GMT</pubDate>
   </item><item>
-    <title>Agent</title>
-    <link>https://quartz.jzhao.xyz/Agent</link>
-    <guid>https://quartz.jzhao.xyz/Agent</guid>
-    <description> A discrete process of intentional actualization oriented towards a distinct Telos.</description>
-    <pubDate>Fri, 06 Jun 2025 06:15:59 GMT</pubDate>
+    <title>The Star-Duchy of Astraea</title>
+    <link>https://quartz.jzhao.xyz/The-Star-Duchy-of-Astraea</link>
+    <guid>https://quartz.jzhao.xyz/The-Star-Duchy-of-Astraea</guid>
+    <description>The Star-Duchy of Astraea Technology Advantage: Capital Fleet Command Home Planet: Astraea, Temperate Sub-Species: Astraeans Culture: A strict feudal hierarchy governs the Star-Dukes, with powerful nobles ruling over planetary fiefdoms and maintaining loyalty through personal martial prowess and the...</description>
+    <pubDate>Sat, 07 Jun 2025 21:40:27 GMT</pubDate>
   </item><item>
-    <title>Alfred North Whitehead</title>
-    <link>https://quartz.jzhao.xyz/Alfred-North-Whitehead</link>
-    <guid>https://quartz.jzhao.xyz/Alfred-North-Whitehead</guid>
-    <description></description>
-    <pubDate>Fri, 06 Jun 2025 06:15:59 GMT</pubDate>
+    <title>The Alchemist&#039;s Enclave</title>
+    <link>https://quartz.jzhao.xyz/The-Alchemist's-Enclave</link>
+    <guid>https://quartz.jzhao.xyz/The-Alchemist's-Enclave</guid>
+    <description>The Alchemist’s Enclave Technology Advantage: Exotic Pharmaceutical Synthesis Home Planet: Panacea, Hostile Biosphere Sub-Species: Pans Culture: The Alchemist’s Enclave thrives on the synthesis and use of unique chemical and drug-based enhancements, often derived from their planet’s bizarre and toxi...</description>
+    <pubDate>Sat, 07 Jun 2025 21:40:27 GMT</pubDate>
   </item><item>
-    <title>Antinet Zettlekasten</title>
-    <link>https://quartz.jzhao.xyz/Antinet-Zettlekasten</link>
-    <guid>https://quartz.jzhao.xyz/Antinet-Zettlekasten</guid>
-    <description>The “Antinet” is a term coined by author and copywriter Scott Scheper to describe his version of Niklas Luhmmann’s Zettlekasten system.</description>
-    <pubDate>Fri, 06 Jun 2025 06:15:59 GMT</pubDate>
+    <title>The Cog-Priests of Volkov</title>
+    <link>https://quartz.jzhao.xyz/The-Cog-Priests-of-Volkov</link>
+    <guid>https://quartz.jzhao.xyz/The-Cog-Priests-of-Volkov</guid>
+    <description>The Cog-Priests of Volkov Technology Advantage: Mastercrafted Fabrication and Postech Modification Home Planet: Volkov, Heavy Industry Sub-Species: Kovan Culture: This civilization reveres craft and mechanical advancement, with a deep appreciation for functional art and masterfully engineered object...</description>
+    <pubDate>Sat, 07 Jun 2025 21:40:27 GMT</pubDate>
   </item><item>
-    <title>Arguments</title>
-    <link>https://quartz.jzhao.xyz/Arguments</link>
-    <guid>https://quartz.jzhao.xyz/Arguments</guid>
-    <description> “A reason or set of reasons given with the aim of persuading others that an action or idea is right or wrong.” New Oxford American Dictionary In Analytical Reading, the key sentences in individual paragraphs in a well constructed book will form the basis of an author’s arguments.</description>
-    <pubDate>Fri, 06 Jun 2025 06:15:59 GMT</pubDate>
+    <title>The Iron Legion of Kreig</title>
+    <link>https://quartz.jzhao.xyz/The-Iron-Legion-of-Kreig</link>
+    <guid>https://quartz.jzhao.xyz/The-Iron-Legion-of-Kreig</guid>
+    <description>The Iron Legion of Kreig Technology Advantage: Pretech Weaponry and Armored Warfare Home Planet: Krieg, Battleground Sub-Species: Krieg Culture: The Iron Legion is a martial society where personal honor is earned through combat prowess and a profound reverence for advanced weaponry.</description>
+    <pubDate>Sat, 07 Jun 2025 21:40:27 GMT</pubDate>
   </item><item>
-    <title>Astrology</title>
-    <link>https://quartz.jzhao.xyz/Astrology</link>
-    <guid>https://quartz.jzhao.xyz/Astrology</guid>
-    <description>Planets Hellenistic Astrology by Chris Brennan.</description>
-    <pubDate>Fri, 06 Jun 2025 06:15:59 GMT</pubDate>
+    <title>The Lumina Ascendancy</title>
+    <link>https://quartz.jzhao.xyz/The-Lumina-Ascendancy</link>
+    <guid>https://quartz.jzhao.xyz/The-Lumina-Ascendancy</guid>
+    <description>The Lumina Ascendancy Technology Advantage: Cultural Preservation and Dissemination Home Planet: Artesia, Temperate Sub-Species: Artesians Culture: This society reveres a blend of non-Abrahamic faiths and philosophical traditions, where spiritual leaders often double as cultural artisans and scholar...</description>
+    <pubDate>Sat, 07 Jun 2025 21:40:27 GMT</pubDate>
   </item>
     </channel>
   </rss>
