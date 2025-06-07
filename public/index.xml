@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 4</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Quartz 4</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>template.ttrpg.session</title>
+    <link>https://quartz.jzhao.xyz/system/templates/template.ttrpg.session</link>
+    <guid>https://quartz.jzhao.xyz/system/templates/template.ttrpg.session</guid>
+    <description>(Note: Delete this line template ) &lt;%tp.file.title%&gt; Session Summary Attendance Log .</description>
+    <pubDate>Fri, 06 Jun 2025 06:17:07 GMT</pubDate>
+  </item><item>
+    <title>template.ttrpg.general</title>
+    <link>https://quartz.jzhao.xyz/system/templates/template.ttrpg.general</link>
+    <guid>https://quartz.jzhao.xyz/system/templates/template.ttrpg.general</guid>
+    <description>&lt;%tp.file.title%&gt;.</description>
+    <pubDate>Fri, 06 Jun 2025 06:17:07 GMT</pubDate>
+  </item><item>
+    <title>Adding Gameplay Verbs and Goals</title>
+    <link>https://quartz.jzhao.xyz/Adding-Gameplay-Verbs-and-Goals</link>
+    <guid>https://quartz.jzhao.xyz/Adding-Gameplay-Verbs-and-Goals</guid>
+    <description>Because most games are made of other games, they typically have multiple goals running at the same time.</description>
+    <pubDate>Fri, 06 Jun 2025 06:15:59 GMT</pubDate>
+  </item><item>
+    <title>Adding a Mechanical Statistic</title>
+    <link>https://quartz.jzhao.xyz/Adding-a-Mechanical-Statistic</link>
+    <guid>https://quartz.jzhao.xyz/Adding-a-Mechanical-Statistic</guid>
+    <description>Extending an existing statistic fails to present the player with a to challenge or tool and is generally regarded as a boring and tedious addition to a given system.</description>
+    <pubDate>Fri, 06 Jun 2025 06:15:59 GMT</pubDate>
+  </item><item>
+    <title>Agenda Card</title>
+    <link>https://quartz.jzhao.xyz/Agenda-Card</link>
+    <guid>https://quartz.jzhao.xyz/Agenda-Card</guid>
+    <description>This is the core of my system.</description>
+    <pubDate>Fri, 06 Jun 2025 06:15:59 GMT</pubDate>
+  </item><item>
+    <title>Agent</title>
+    <link>https://quartz.jzhao.xyz/Agent</link>
+    <guid>https://quartz.jzhao.xyz/Agent</guid>
+    <description> A discrete process of intentional actualization oriented towards a distinct Telos.</description>
+    <pubDate>Fri, 06 Jun 2025 06:15:59 GMT</pubDate>
+  </item><item>
+    <title>Alfred North Whitehead</title>
+    <link>https://quartz.jzhao.xyz/Alfred-North-Whitehead</link>
+    <guid>https://quartz.jzhao.xyz/Alfred-North-Whitehead</guid>
+    <description></description>
+    <pubDate>Fri, 06 Jun 2025 06:15:59 GMT</pubDate>
+  </item><item>
+    <title>Antinet Zettlekasten</title>
+    <link>https://quartz.jzhao.xyz/Antinet-Zettlekasten</link>
+    <guid>https://quartz.jzhao.xyz/Antinet-Zettlekasten</guid>
+    <description>The “Antinet” is a term coined by author and copywriter Scott Scheper to describe his version of Niklas Luhmmann’s Zettlekasten system.</description>
+    <pubDate>Fri, 06 Jun 2025 06:15:59 GMT</pubDate>
+  </item><item>
+    <title>Arguments</title>
+    <link>https://quartz.jzhao.xyz/Arguments</link>
+    <guid>https://quartz.jzhao.xyz/Arguments</guid>
+    <description> “A reason or set of reasons given with the aim of persuading others that an action or idea is right or wrong.” New Oxford American Dictionary In Analytical Reading, the key sentences in individual paragraphs in a well constructed book will form the basis of an author’s arguments.</description>
+    <pubDate>Fri, 06 Jun 2025 06:15:59 GMT</pubDate>
+  </item><item>
+    <title>Astrology</title>
+    <link>https://quartz.jzhao.xyz/Astrology</link>
+    <guid>https://quartz.jzhao.xyz/Astrology</guid>
+    <description>Planets Hellenistic Astrology by Chris Brennan.</description>
+    <pubDate>Fri, 06 Jun 2025 06:15:59 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
